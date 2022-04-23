@@ -9,7 +9,7 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <h3 align="center">
-    Interested in Data Science, ML and travaling.
+    Interested in Data Science, ML and traveling.
 </h3>
 
 I just started using GitHub, so this page will be gradually updated, also check out my repositories, I will be glad!
