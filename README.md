@@ -12,7 +12,9 @@
     Interested in Data Science, ML and traveling.
 </h3>
 
-I just started using GitHub, so this page will be gradually updated, also check out my repositories, I will be glad!
+Passed a number of courses in Python, ML, analytics and statistics, participate in ML competitions, writing an ML pet project - I am deeply passionate about DS and ready to go further
+
+This page will be gradually updated, also check out my repositories, I will be glad!
 
 <h2 align="Left">
     Contact with me:
