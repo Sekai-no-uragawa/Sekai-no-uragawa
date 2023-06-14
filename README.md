@@ -1,9 +1,3 @@
-<div align = "center">
-    <img src="BG.gif" alt="Hello. I'm Misha. I like code. Thanks for reading."  height=200">
-    <img src="BG2.gif" alt="Hello. I'm Misha. I like code. Thanks for reading." height=200">
-    <img src="BG3.gif" alt="Hello. I'm Misha. I like code. Thanks for reading." height=200">
-</div>
-
 <h1 align="center">
     Welcome!  I'm Misha
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
@@ -13,8 +7,6 @@
 </h3>
 
 Passed a number of courses in Python, ML, analytics and statistics, participate in ML competitions, writing an ML pet project - I am deeply passionate about DS and ready to go further
-
-This page will be gradually updated, also check out my repositories, I will be glad!
 
 <h2 align="Left">
     Contact with me:
@@ -40,15 +32,4 @@ This page will be gradually updated, also check out my repositories, I will be g
  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 </div> 
-                                                                                                                           
-<h3 align="Left">
-    Statistics:
-</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sekai-no-uragawa)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
+    
