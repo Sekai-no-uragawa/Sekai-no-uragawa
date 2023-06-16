@@ -12,7 +12,7 @@ Passed a number of courses in Python, ML, analytics and statistics, participate 
     Contact with me:
 </h2>
 <div align = "left">
-    <a href = "https://t.me/op_popo">
+    <a href = "https://t.me/holdytt">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32"/>
     </a> 
     <a href = "mailto:kostinmihail.km@gmail.com">
